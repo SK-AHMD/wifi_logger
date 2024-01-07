@@ -16,12 +16,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-## HomePage 
-  <img src="scr_shots/homepage.png" height="400em" /> Dropdown Menu <img src="scr_shots/dropdownmenu.png" height="400em" />
-Add Users
-  <img src="scr_shots/add_user.png" height="400em" />
-LogoutPage
-  <img src="scr_shots/logout_screen.png" height="400em" />
+## HomePage      Dropdown Menu      Add Users      LogoutPage   
+  <img src="scr_shots/homepage.png" height="400em" /> <img src="scr_shots/dropdownmenu.png" height="400em" /> <img src="scr_shots/add_user.png" height="400em" /> <img src="scr_shots/logout_screen.png" height="400em" />
 
 <!-- Add this CSS style to align images in a row -->
 <style>
