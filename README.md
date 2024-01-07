@@ -1,5 +1,7 @@
 # wifi
-
+Hello Everyone!
+Myself Sheikh Ahmadullah
+This is ... 
 A new Flutter project.
 
 ## Getting Started
@@ -14,12 +16,15 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-## HomePage & LogoutPage
-<p float="left">
-  <img src="scr_shots/homepage.png" height="500em" />
-  
-  <img src="scr_shots/logout_screen.png" height="500em" />
-</p>
+## HomePage 
+  <img src="scr_shots/homepage.png" height="400em" />
+## Dropdown Menu
+ <img src="scr_shots/dropdownmenu.png" height="400em" />
+## Add Users
+   <img src="scr_shots/add_user.png" height="400em" />
+## LogoutPage
+  <img src="scr_shots/logout_screen.png" height="400em" />
 
-* [Website](https://sk-ahmd.github.io/)
 
+ 
+* [Portfolio](https://sk-ahmd.github.io/)
