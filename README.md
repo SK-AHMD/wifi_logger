@@ -14,5 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-## HomePage
+## HomePage & LogoutPage
+<p float="left">
+  <img src="scr_shots/homepage.png" height="500em" />
+  <img src="scr_shots/homepage.png" height="500em" />
+</p>
 <img src="scr_shots/homepage.png" height="500em" />
+
+* [Website](https://sk-ahmd.github.io/)
